@@ -261,7 +261,6 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 		return this.displayName;
 	}
 
-    */
 	/**
 	 * Return the parent context, or {@code null} if there is no parent
 	 * (that is, this context is the root of the context hierarchy).
